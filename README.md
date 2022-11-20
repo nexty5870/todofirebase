@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Learning React and introducing firebase for basic crud operation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Stack: React + TailwindCSS + Firebase
+
+Basic Todo app using React & TailwindCSS for the front, firebase for the back
 
 ## Available Scripts
 
